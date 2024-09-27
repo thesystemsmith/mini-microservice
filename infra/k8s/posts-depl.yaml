@@ -13,4 +13,4 @@ spec:
     spec:
       containers:
       - name: posts
-        image: docker.io/thesystemsmith/posts:0.0.2
+        image: docker.io/thesystemsmith/posts:latest
